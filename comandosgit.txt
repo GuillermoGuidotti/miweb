@@ -17,3 +17,7 @@ git diff: muestra todos los cambios escritos que aun no han pasado a staged
 git diff --staged: mostrara todos los cambios ya agregados a staged
 git log: historial 
 git log --oneline: historial más reducido
+git branch: indica la rama donde estamos trabajando
+git checkout -b: crear una rama
+cat: muestra el contenido del archivo
+git checkout: cambiar de rama
