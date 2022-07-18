@@ -7,3 +7,5 @@ code .: abrir carpeta donde estamos
 git status: muestra el estado actual del repositorio
 git add: seleccionar archivos
 git commit -m "comentario": Archivos comprometidos 
+rm: eliminar archivos
+git rm: se pasa altiro para poder ser comiteado
