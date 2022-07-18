@@ -6,3 +6,4 @@ ls -a: muestra todos los archivos y carpetas
 code .: abrir carpeta donde estamos
 git status: muestra el estado actual del repositorio
 git add: seleccionar archivos
+git commit -m "": Archivos comprometidos 
