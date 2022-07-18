@@ -22,3 +22,4 @@ git checkout -b: crear una rama
 cat: muestra el contenido del archivo
 git checkout: cambiar de rama
 git merge: traer archivos de una rama a otra
+git push: comando para subir cambios a la nube
