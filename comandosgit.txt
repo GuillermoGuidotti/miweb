@@ -12,3 +12,8 @@ git rm: se pasa altiro para poder ser comiteado
 git restore: recuperar archivo
 mv: mover o renombrar archivos
 git mv: se pasa altiro para poder ser comiteado
+git status -s: estado más sofisticado
+git diff: muestra todos los cambios escritos que aun no han pasado a staged
+git diff --staged: mostrara todos los cambios ya agregados a staged
+git log: historial 
+git log --oneline: historial más reducido
