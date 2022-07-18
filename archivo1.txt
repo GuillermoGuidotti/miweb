@@ -1,2 +1,8 @@
-chanchito feliz
-chanchito feliz
+ls: listar carpetas
+pwd: saber donde estamos
+cd: entrar o salir de una carpeta
+mkdir: crear carpeta
+ls -a: muestra todos los archivos y carpetas
+code .: abrir carpeta donde estamos
+git status: muestra el estado actual del repositorio
+git add: seleccionar archivos
