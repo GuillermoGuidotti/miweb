@@ -1,0 +1,4 @@
+input: captura texto del teclado
+print: imprime 
+if: condicional que sirve para hacer unas u otras operaciones 
+else: 
