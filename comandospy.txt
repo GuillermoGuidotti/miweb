@@ -1,4 +1,35 @@
+in: devuelve True si el valor especificado se encuentra en la secuencia
+not: negación, convierte un dato booleano al opuesto
+and: compara datos booleanos, si ambos datos son True, el resultado es True
+or: compara datos booleanos, necesita solo un dato True, para que el resultado sea True
+int: número entero
+booleano: variable que sólo puede ser True o False
+float: números reales
+str: tipo de variable para guardar texto
++: sumar
+-: restar
+*: multiplicar
+/: dividir
+%: resto
+def: definición de función
 input: captura texto del teclado
 print: imprime 
 if: condicional que sirve para hacer unas u otras operaciones 
-else: 
+else: Cuando la expresión if se evalúa como True, entonces ejecuta el código que le sigue. Pero si se evalúa como False, entonces ejecuta el código que sigue después de la sentencia else
+while: ejecuta un código hasta que la condición sea False
+array: arreglo o vectores, son básicamente listas
+for: establece la variable iteradora en cada valor de una lista, arreglo o cadena proporcionada y repite el código en el cuerpo del bucle for para cada valor de la variable iteradora
+.reverse: invierte la lista
+.remove: elimina un elemento de la lista
+.append: agrega un elemento a la lista
+range: se usa para representar una secuencia inmutable de números
+diccionario: permite almacenar conjuntos de elementos, llamados claves y valores
+archivos: de texto o binarios
+open: permite acceder al fichero
+.write: permite escribir (modificar) algun fichero
+.close: cierra el descriptor del fichero
+.read lee todo el contenido de un archivo
+class: es un plano para objetos similares
+__init__(self): inicializa los atributos del objeto que creamos
+import: importar
+from: desde
